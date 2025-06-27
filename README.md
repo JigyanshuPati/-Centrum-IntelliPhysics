@@ -1,1 +1,3 @@
-This repository contains my implementation and exploration of operator learning using DeepONet and Physics-Informed Neural Networks (PINNs) in JAX/FLAX. It is part of the work I'm doing under the guidance of Prof. Goswami and Dibyajyoti Nayak at Centrum IntelliPhysics.
+# Deep Operator
+
+This repository contains implementations and experiments related to operator learning using DeepONet and Physics-Informed Neural Networks (PINNs), built with JAX and FLAX.
